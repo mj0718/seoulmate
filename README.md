@@ -7,12 +7,6 @@
 5명
 ### 개발 환경
 Windows 10, Gradle 7.6.1, Java 11, HTML5, CSS 3.0, H2 2.1.214, Thymeleaf, Eclipse, Spring boot 2.7.11, Bootstrap, Lombok 1.18.26, jQuery
-<div align="center">
-	<img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" />
-	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
-	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-</div>
-
 
 ### 배포 환경
 ubuntu, AWS EC2, AWS RDS, MySQL
