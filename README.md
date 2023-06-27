@@ -46,4 +46,6 @@ ubuntu, AWS EC2, AWS RDS, MySQL
 
 ### [참고 포트폴리오 자료](https://github.com/mj0718/seoulmate/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
 
+### [개인 포트폴리오 자료](https://github.com/mj0718/seoulmate/blob/master/%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%20%EC%86%8C%EA%B0%9C_%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4.pdf)
+
 ### [시연영상](https://github.com/mj0718/seoulmate/blob/master/%EC%8B%9C%EC%97%B0%EC%98%81%EC%83%81.mp4)
